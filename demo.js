@@ -12,7 +12,7 @@ console.log(box)
 // Task 3 - Customer Greeting
 
 let Customer=alert("Welcome to Stackly Solutions!")
-console.log(Customer)
+console.log("Customer entered the website.")
 
 // Task 4 - Student Details
 
